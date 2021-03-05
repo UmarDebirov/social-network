@@ -1,0 +1,20 @@
+.header {
+  grid-area: h;
+  overflow: hidden;
+  text-align: center;
+  background: linear-gradient(130deg,
+              rgba(251,251,254,.6),
+              rgba(251,251,254,.2));
+  box-shadow: inset 2px 2px 1px rgba(251,251,254,.3)
+              inset -2px -2px 1px rgba(251,251,254,.2);
+  border-radius: 1.5rem;
+  backdrop-filter: blur(10px);
+
+
+  
+
+}
+
+.header img {
+  width: 20px;
+}
